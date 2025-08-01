@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+__pycache__
+.env.local
+
+tests/fixtures/nginx-access-ui.log-20210630.gz

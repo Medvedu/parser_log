@@ -34,6 +34,12 @@ $ make linters
 ```shell
 $ make refactor
 ```
+
+----
+6. Запуск тестов
+```shell
+$ make tests
+```
 ----
 
 ### О конфигах
